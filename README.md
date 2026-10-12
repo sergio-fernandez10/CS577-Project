@@ -115,6 +115,6 @@ Python · pandas · NumPy · Matplotlib · seaborn · Jupyter
 
 ## AI Usage
 
-Claude was used to correct the syntax in the plotting of the before and after weakest plot in the two panel stack format in part 1B.
+We used Claude (Anthropic) to help with plotting syntax in seaborn and matplotlib (including the before/after two-panel layout in Part 1B, the line plot in Figure M1, and the regression and binned-median plot in Figure M2), and to correct syntax in the plotting of the before and after weakest plot in the two panel stack format in part 1B.
 
 ---
